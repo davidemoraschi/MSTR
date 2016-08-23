@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://fraterno/MicroStrategyWS/MSTRWS.asmx?wsdl" docRef="http://fraterno/MicroStrategyWS/MSTRWS.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://fraterno/MicroStrategyWS/MSTRWS.asmx" xmlns:q1="http://microstrategy.com/webservices/v1_0" binding="q1:MSTRWSSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://fraterno/MicroStrategyWS/MSTRWS.asmx" xmlns:q2="http://microstrategy.com/webservices/v1_0" binding="q2:MSTRWSSoap1" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
